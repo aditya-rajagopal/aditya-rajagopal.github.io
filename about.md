@@ -17,7 +17,7 @@ Learning is my passion. I love to learn a wide veriety of topics including but n
 ### Interests
 * Long distance running
 * Learning foreign languages is one of my formost hobbies
-* Any type of novel ( Currently into chinese xianxia/wuxia novels - [My favourite](http://gravitytales.com/im-really-a-superstar/) )
+* Any type of novel (Currently into chinese xianxia/wuxia novels - [My favourite](http://gravitytales.com/im-really-a-superstar/) )
 * DOTA 2 
 * GO enthusiast
 
