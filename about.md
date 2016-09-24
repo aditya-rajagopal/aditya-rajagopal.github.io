@@ -28,7 +28,7 @@ Learning is my passion. I love to learn a wide veriety of topics including but n
 * Beginner : 漢語, Deutsch
 
 ### Contact
-adi <dot> raj465 <at> gmail <dot> com
+adi [dot] raj465 [at] gmail [dot] com
 
 ### CV
 Email me for a pdf copy of my CV
