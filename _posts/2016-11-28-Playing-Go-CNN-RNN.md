@@ -12,8 +12,8 @@ game I used to play a lot in my undergraduate years on the KGS servers, GO.
 You can read more about GO [here](https://en.wikipedia.org/wiki/Go_(game)). Why GO? simply because GO is a game that depends a lot on 
 patterns. I have discoverd that instead of reasoning why I place a stone in a particular location often I would play
 a move based on intuition and looking at the structures of the stones on the board. Ofcourse I am personally nowhere near good enough
-at go to claim my intuition is right or that I am in any way an expert at GO. Insights given by professional players often account 
-the weight of intuition based on recognizing patterns that they have leaned to identify from years of practice. On the flip side there
+at go to claim my intuition is right or that I am in any way an expert at GO. Instead insights given by professional players often account 
+the the high weight of intuition based on recognizing patterns that they have leaned to identify from years of practice in their plays. On the flip side there
 is also a certain logic to GO. One cannot play the game of GO simply based on pattern recognition.
 
 Now you may ask where do CNN and RNN come into the picture? Convolutional neural networks(CNN) are displaying amazing results in image
