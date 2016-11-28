@@ -34,3 +34,8 @@ will be shortly updated.
 I dont expect to make any ground breaking discoveries this is merely satiating my curiosity, mostly towards how effective RNNs will
 be for learning to play GO. There have already been many papers describing GO predictors based on CNN however I would still like to
 work my way up designing a network from scratch more as a learning experience than anything else.
+
+####An indication of what kind of network I am currently going for.
+I am currently using a 9 convolution and 2 FC layer network which is giving around a 46% accuracy on the testing set of 10 games with over 96% on training of about 100 games( clearly not an indication of anything I mainly used it to test out the proper functioning of the network). More on this later.
+
+![Example of CNN network I am currently using as of the latest commit](../images/cnn_graph.png? raw=true "Current CNN model")
